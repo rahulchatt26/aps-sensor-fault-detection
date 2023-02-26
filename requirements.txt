@@ -1,0 +1,9 @@
+pymongo[srv]
+pandas
+numpy
+python-dotenv
+scikit-learn
+PyYAML
+dill
+urllib
+-e .
